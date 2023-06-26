@@ -914,12 +914,12 @@ a {
   color: #f1f1f1;
   width:92%;
   padding: 20px;
-}
+}*/
 section#about3{
-  font-family: Arial;
-  font-size: 17px;
-  min-height: 100vh;
-}
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+}/*
 @media screen and (max-width: 1368px) {
   .container {
     min-width: 100%;
