@@ -836,6 +836,7 @@ a {
   font-weight: 300;
 }
 
+
 .wave {
   position: absolute;
   top: -100px;
@@ -957,9 +958,7 @@ section#about3{
 }
 
 html{
-  height: 100%;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 14px;
+
 }
 
 body{
@@ -969,7 +968,7 @@ body{
 .hero-section{
   align-items: flex-start;
   /*background-image: linear-gradient(15deg, #0f4667 0%, #2a6973 150%);*/
-  
+
   display: flex;
   min-height: 100%;
   justify-content: center;
